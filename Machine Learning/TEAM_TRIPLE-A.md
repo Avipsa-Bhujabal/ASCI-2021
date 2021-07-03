@@ -41,3 +41,10 @@ we’re busy and struggling to memorise everything around us. It would help to m
  5. Solving mathematical problems
  6. Joke
  7. Ending task using stop command
+
+ ## WEEK-3
+ 
+ 1.Created graphical user interface to run our application
+ 2.Automated SILICON ERP
+ 3.TO get NEWS headlines
+ 4.Removed the stop command instead used destroy button
